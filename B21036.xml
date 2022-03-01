@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tale of a tub, or The Greenwich problem. Greenvvich, the twenty sixth of July, 1673.</title>
+            <author>Dary, Michael.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21036</idno>
+            <idno type="STC">Wing D279</idno>
+            <idno type="STC">Interim Tract Supplement Guide 528.n.20.[7]</idno>
+            <idno type="STC">ESTC R230899</idno>
+            <idno type="STC">ESTC R233904</idno>
+            <idno type="STC">ESTC R230899</idno>
+            <idno type="EEBO-CITATION">99888551</idno>
+            <idno type="PROQUEST">ocm99888551</idno>
+            <idno type="VID">204044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204044)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E9:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tale of a tub, or The Greenwich problem. Greenvvich, the twenty sixth of July, 1673.</title>
+                  <author>Dary, Michael.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : diagram.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Shrowsbury at the sign of the Bible in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot: By Michael Dary.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mathematics --  Early works to 1800.</term>
+               <term>Geometry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204044:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Tale of a T<g ref="char:V">Ʋ</g>B, <hi>or The</hi> Greenwich PROBLEM.
+<figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+            </head>
+            <head type="sub">
+               <hi>GREENVVICH,</hi> the Twenty ſixth of <hi>July, 1673.</hi>
+            </head>
+            <p>THe Dimenſions of Mr. <hi>Peter Cooper</hi> his third Round Tun, taken in Inches by <hi>N. G.</hi> and <hi>M. D.</hi>
+            </p>
+            <p>
+               <label>Data</label> The Diameters at the top 118 and 120.5; the Geometrical Mean 119.24 = A A.</p>
+            <p>The Diameters at the bottom 121.5 and 127; the Geometrical Mean 124.21 = B B.</p>
+            <p>The Perpendicular from the top to the bottom 46.5 = P P.</p>
+            <p>After theſe Dimenſions were taken in the dry Tun, there was (upon the Fifth of <hi>December,</hi> 1674.) water 2:1:5 two Barrels, one Firkin, five Gallons, put in to replete the Horizon; and then at the Extremities of the Diameter C C, on the Surface of the water, there was taken wet the Depths C D = 2 and C D = 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſ. </seg>
+               </label> The Fruſtum of Air A A C C A?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Solu. </seg>
+               </label> The Fruſtum of Air A A C C A = 50:3:7</p>
+            <p>But the Fruſtum A A C C A found by Art = 50:3:7 and the Fruſtum C C B B C meaſured by water = 2:1:5 is the whole Content of this Tun in Beer Meaſure = 53:1:3 not 54:0:3.</p>
+            <p>The Dimenſions of the ſaid Tun as they were taken in Inches the Fifth of <hi>December,</hi> 1674.</p>
+            <p>
+               <label>Data</label> The Diameters at the top 117.3 and 120.5; the Geometrical Mean 118.88 = A A.</p>
+            <p>The Diameters at the bottom 125.5 and 126.75; the Geometrical Mean 126.12 = B B.</p>
+            <p>The Perpendicular from the top to the bottom 46.4 = P P.</p>
+            <p>After theſe Dimenſions were taken in the dry Tun, there was water 2:1:5 put in to replete the Horizon; and then at the Extremities of the Diameter C C, on the Surface of the water, there was taken wet the Depths C D = 2 and C D = 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſ. </seg>
+               </label> The Fruſtum of Air A A C C A?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Solu. </seg>
+               </label> The Fruſtum of Air A A C C A = 51:1:6.</p>
+            <p>But the Fruſtum A A C C A found by Art = 51:1:6 and the Fruſtum C C B B C meaſured by water = 2:1:5 is the whole Content of this Tun in Beer Meaſure = 53:3:2 not 54:1:3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> There were ſeveral other Depths as well as C D, taken in the Perimeter of the bottom of this Tun, and therefore this way of Caſting up this Tun cannot be true.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Although there were ſeveral Depths, as well as C D, taken in the Perimeter of the bottom of this Tun, yet there was no other pair of Depths diametrically oppoſite and equal, but theſe C D and C D; and if the Perimeter of the bottom (<hi>viz.</hi> the Perimeter at the Croes, I do not mean the whole Surface of the bottom) be granted to be in one and the ſame Plane, I do aver, that this way of Caſting up of this Tun is true to any way or every way of Caſting of it up.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But the Croes of this Tun are of a Snaky Form or Figure, and conſequently not in one and the ſame Plane.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Then there is no way afforded for any Analogy between the Diameters taken on the bottom (<hi>viz.</hi> the Perimeter at the Croes, I do not mean the whole Surface of the bottom) and thoſe on the Surface of the water: So then, if the Croes be not granted to be in one and the ſame Plane, there is no way afforded to get the Diameters on the Surface of the water, but by taking of them actually; which all Practical <hi>Gaugers</hi> judge very uncertain and impracticable.</p>
+            <p>The reaſon that the Caſting of <hi>December</hi> 5. 1674. exceeds that of <hi>July</hi> 26. 1673. is, for that the Diameters of the bottom are not Rectangular Conjugates, and I judge may be ſaid to be an inſufficient <hi>Data,</hi> becauſe <hi>July</hi> 26. ſhews a longer and a ſhorter upon the ſame bottom.</p>
+            <closer>
+               <signed>By <hi>MICHAEL DARY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>William Shrowsbury</hi> at the Sign of the <hi>Bible</hi> in <hi>Duck-Lane. 1674.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
